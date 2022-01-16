@@ -96,10 +96,18 @@ a{
 }
 
 /* Add color to Social Media Links */
-.media_link {
+.media-link {
   margin-left: 30px;
   padding: 7px;
-  max-width: 11rem;
+  max-width: 9rem;
+  margin-left: 1rem;
+  border: 2px solid #f5ba09;
+  border-radius: 0.5rem;
+}
+.media-link-linkedin{
+  margin-left: 30px;
+  padding: 7px;
+  max-width: 10rem;
   margin-left: 1rem;
   border: 2px solid #f5ba09;
   border-radius: 0.5rem;
