@@ -113,23 +113,23 @@ body {
 
 /* AREA DAS TECNOLOGIAS*/
 .tec-link,.tec-link-css,.tec-link-git,.tec-link-html,.tec-link-linux {
-  padding: 8px;
+  padding: 5px;
   margin-left: 1rem;
   border: 2px solid #f5ba09;
   border-radius: 0.5rem;
 }
 .tec-link{
-  max-width: 14rem;
+  max-width: 12rem;
 }
 .tec-link-css{
-  max-width: 9rem;
+  max-width: 7rem;
 }
 .tec-link-html{
-  max-width: 10rem;
-}
-.tec-link-git{
   max-width: 8rem;
 }
+.tec-link-git{
+  max-width: 100px;
+}
 .tec-link-linux{
-  max-width: 10rem;
+  max-width: 127px;
 }
