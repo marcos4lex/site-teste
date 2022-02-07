@@ -549,6 +549,9 @@ img {
   .img-work{
     margin-top: 50px;
   }
+  .skills__container{    
+    text-align: initial;
+  }
 }
 
 @media screen and (min-width: 576px) {
@@ -578,6 +581,7 @@ img {
     grid-template-columns: .7fr;
     justify-content: center;
     column-gap: 1rem;
+    text-align: initial;
   }
   .work__container {
     grid-template-columns: repeat(2, 1fr);
